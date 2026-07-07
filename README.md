@@ -12,7 +12,7 @@ A relational database for **EcoMarketRiwi** to support business intelligence, in
 - **Schema Tables:** `eco_cities`, `eco_clients`, `eco_distribution_centers`, `eco_categories`, `eco_products`, `eco_orders`.
 
 ## Entity Relationship Diagram
-![ERD](./MER-SMB.png)
+![ERD](./Modelo Entidad-Relacion.png)
 
 ## Setup Instructions
 1. **Create Database:** Run the SQL script to create the schema:
